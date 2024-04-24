@@ -1,0 +1,8 @@
+Program.cs
+.db
+/Migrations
+DonationDBContext.cs
+/Properties
+appsettings.json
+appsettings.Development.json
+/obj
